@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
 
 class Calculator:
     def __init__(self):
@@ -18,8 +13,6 @@ class Calculator:
     def total(self):
         return self.total
 
-
-# In[ ]:
 
 
 
